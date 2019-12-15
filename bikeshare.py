@@ -4,6 +4,8 @@ import time
 import pandas as pd
 import numpy as np
 
+# specify the scope of cities
+
 CITY_SCOPE = { 'chicago': 'chicago.csv',
               'new york': 'new_york_city.csv',
               'washington': 'washington.csv' }

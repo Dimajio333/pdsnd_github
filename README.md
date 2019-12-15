@@ -5,8 +5,7 @@
 Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
-
+Use Python to understand U.S. bikeshare data
 ### Files used
 Include the files used
 
